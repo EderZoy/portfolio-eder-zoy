@@ -6,12 +6,9 @@ Este portafolio está diseñado para ser visual y fácil de navegar, destacando 
 
 ## Secciones
 
-- **Experiencia Laboral**: Proyectos y roles previos.
+- **Sobre Mi**: Te cuento un poco de mi para que me conozcas :)
+- **Experiencia Laboral**.
 - **Educación**: Mi formación académica.
 - **Habilidades**: Lenguajes de programación, herramientas y tecnologías que manejo.
-
-## Tecnologías
-
-- **Lenguajes**: JavaScript, HTML, CSS, SQL, Java
-- **Frameworks**: React, Angular, Node.js, .NET
-- **Herramientas**: Git, GitHub, Power BI, Figma
+- **Proyectos**: Algunos de los proyectos realizados.
+- **Contactame** No dudes en mandarme un mensaje o comunicarte conmigo!! 
