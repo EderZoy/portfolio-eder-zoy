@@ -1,12 +1,17 @@
-# React + Vite
+# Portfolio Eder Zoy
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenido a mi portafolio personal. Soy **Eder Zoy**, Ingeniero en Sistemas de Información, y este sitio muestra mi trabajo, habilidades y experiencias profesionales.
 
-Currently, two official plugins are available:
+Este portafolio está diseñado para ser visual y fácil de navegar, destacando mis proyectos y conocimientos en desarrollo web y análisis de datos.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Secciones
 
-## Expanding the ESLint configuration
+- **Experiencia Laboral**: Proyectos y roles previos.
+- **Educación**: Mi formación académica.
+- **Habilidades**: Lenguajes de programación, herramientas y tecnologías que manejo.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tecnologías
+
+- **Lenguajes**: JavaScript, HTML, CSS, SQL, Java
+- **Frameworks**: React, Angular, Node.js, .NET
+- **Herramientas**: Git, GitHub, Power BI, Figma
