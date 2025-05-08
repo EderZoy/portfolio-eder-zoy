@@ -1,0 +1,36 @@
+[
+    {
+      "fecha": "Noviembre 2023 - Presente",
+      "empresa": "RojoSoft",
+      "rol": "Desarrollador & Analista de Datos",
+      "actividades": [
+        "Desarrollo de aplicaciones con .NET y React",
+        "Creación de dashboards interactivos en Power BI",
+        "Automatización de procesos con Power Platform",
+        "Análisis de datos para toma de decisiones"
+      ]
+    },
+    {
+      "fecha": "Junio 2022 - Septiembre 2023",
+      "empresa": "Town Store",
+      "rol": "Desarrollador Web",
+      "actividades": [
+        "Desarrollo de interfaces de usuario con React",
+        "Implementación de APIs con Node.js/Express",
+        "Modelado de bases de datos en PostgreSQL",
+        "Soporte y mantenimiento continuo de la aplicación"
+      ]
+    },
+    {
+      "fecha": "Febrero 2021 - Diciembre 2021",
+      "empresa": "Poder Judicial VM",
+      "rol": "Soporte Técnico",
+      "actividades": [
+        "Resolución de incidencias técnicas",
+        "Mantenimiento preventivo de hardware",
+        "Administración de redes locales",
+        "Capacitación a usuarios en herramientas de ofimática"
+      ]
+    }
+  ]
+  

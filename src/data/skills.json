@@ -1,0 +1,48 @@
+{
+    "Lenguajes": [
+      { "name": "JavaScript", "icon": "SiJavascript" },
+      { "name": "HTML", "icon": "SiHtml5" },
+      { "name": "CSS", "icon": "SiCss3" },
+      { "name": "SQL", "icon": "SiMysql" },
+      { "name": "Java", "icon": "SiJava" },
+      { "name": "TypeScript", "icon": "SiTypescript" }
+    ],
+    "Frameworks y Librerías": [
+      { "name": "React", "icon": "FaReact" },
+      { "name": "Angular", "icon": "FaAngular" },
+      { "name": "Node.js", "icon": "FaNodeJs" },
+      { "name": "Blazor", "icon": "SiBlazor" },
+      { "name": ".NET", "icon": "SiDotnet" },
+      { "name": "Bootstrap", "icon": "FaBootstrap" },
+      { "name": "Tailwind CSS", "icon": "SiTailwindcss" }
+    ],
+    "Bases de Datos": [
+      { "name": "PostgreSQL", "icon": "SiPostgresql" },
+      { "name": "MySQL", "icon": "SiMysql" },
+      { "name": "SQL Server", "icon": "SiMicrosoftsqlserver" },
+      { "name": "MongoDB", "icon": "SiMongodb" }
+    ],
+    "Herramientas": [
+      { "name": "Git", "icon": "FaGitAlt" },
+      { "name": "GitHub", "icon": "FaGithub" },
+      { "name": "Power BI", "icon": "SiPowerbi" },
+      { "name": "Power Apps", "icon": "SiMicrosoft" },
+      { "name": "Power Automate", "icon": "SiMicrosoft" },
+      { "name": "Figma", "icon": "FaFigma" },
+      { "name": "VS Code", "icon": "SiVisualstudiocode" },
+      { "name": "Docker", "icon": "FaDocker" }
+    ],
+    "Soft Skills": [
+      "Adaptabilidad",
+      "Resolución de problemas",
+      "Comunicación",
+      "Proactividad",
+      "Trabajo en equipo",
+      "Organización",
+      "Pensamiento crítico",
+      "Gestión del tiempo",
+      "Aprendizaje rápido",
+      "Atención al detalle"
+    ]
+  }
+  

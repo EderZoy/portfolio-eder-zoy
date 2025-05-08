@@ -1,0 +1,18 @@
+{
+    "name": "Eder Zoy",
+    "role": "Desarrollo Frontend | Análisis de Datos | Diseño UX/UI",
+    "description": "Ingeniero en Sistemas de Información con experiencia en desarrollo web, automatización de procesos y análisis de datos.",
+    "cv": "../assets/EderZoy_CV2025.pdf",
+    "photo": "../assets/fotoperfil.jpg",
+    "descripcion": "Soy Ingeniero en Sistemas de Información con pasión por el desarrollo de software y el análisis de datos. Mi objetivo es crear soluciones tecnológicas que sean eficientes, usables y que generen un impacto positivo.\nCon experiencia en desarrollo full-stack y análisis de datos, me especializo en construir aplicaciones web modernas y en la automatización de procesos para optimizar flujos de trabajo.\n\nActualmente resido en Villa María, Córdoba, Argentina, y tengo 24 años. Me caracterizo por ser organizado, proactivo y un firme creyente en el aprendizaje continuo y el trabajo en equipo.",
+   "fraseInspiradora": "El aprendizaje continuo es la clave para innovar y evolucionar, y cada proyecto es una oportunidad para seguir creciendo como profesional y como persona.",
+    "habilidadesBlandas": [
+      "Organización",
+      "Trabajo en equipo",
+      "Aprendizaje continuo",
+      "Adaptabilidad",
+      "Comunicación",
+      "Resolución de problemas",
+      "Proactividad"
+    ]
+  }
