@@ -3,11 +3,17 @@
       { "name": "JavaScript", "icon": "SiJavascript" },
       { "name": "HTML", "icon": "SiHtml5" },
       { "name": "CSS", "icon": "SiCss3" },
-      { "name": "SQL", "icon": "SiMysql" },
-      { "name": "Java", "icon": "SiJava" },
+      { "name": "Java", "icon": "FaJava" },
+      { "name": "Python", "icon": "SiPython" },
       { "name": "TypeScript", "icon": "SiTypescript" }
+      
     ],
-    "Frameworks y Librerías": [
+        "Bases de Datos": [
+      { "name": "PostgreSQL", "icon": "SiPostgresql" },
+      { "name": "MySQL", "icon": "SiMysql" },
+      { "name": "SQL Server", "icon": "SiMicrosoftsqlserver" },
+      { "name": "MongoDB", "icon": "SiMongodb" }
+    ],"Frameworks y Librerías": [
       { "name": "React", "icon": "FaReact" },
       { "name": "Angular", "icon": "FaAngular" },
       { "name": "Node.js", "icon": "FaNodeJs" },
@@ -16,21 +22,20 @@
       { "name": "Bootstrap", "icon": "FaBootstrap" },
       { "name": "Tailwind CSS", "icon": "SiTailwindcss" }
     ],
-    "Bases de Datos": [
-      { "name": "PostgreSQL", "icon": "SiPostgresql" },
-      { "name": "MySQL", "icon": "SiMysql" },
-      { "name": "SQL Server", "icon": "SiMicrosoftsqlserver" },
-      { "name": "MongoDB", "icon": "SiMongodb" }
-    ],
+
     "Herramientas": [
       { "name": "Git", "icon": "FaGitAlt" },
       { "name": "GitHub", "icon": "FaGithub" },
       { "name": "Power BI", "icon": "SiPowerbi" },
-      { "name": "Power Apps", "icon": "SiMicrosoft" },
-      { "name": "Power Automate", "icon": "SiMicrosoft" },
+      { "name": "Power Apps", "icon": "FaMicrosoft" },
+      { "name": "Power Automate", "icon": "FaMicrosoft" },
       { "name": "Figma", "icon": "FaFigma" },
       { "name": "VS Code", "icon": "SiVisualstudiocode" },
-      { "name": "Docker", "icon": "FaDocker" }
+      { "name": "Apache Spark", "icon": "SiApachespark" },
+      { "name": "DataBricks", "icon": "SiDatabricks" },
+      { "name": "Tableau", "icon": "SiTableau" },
+      { "name": "Excel", "icon": "FaFileExcel" }
+
     ],
     "Soft Skills": [
       "Adaptabilidad",

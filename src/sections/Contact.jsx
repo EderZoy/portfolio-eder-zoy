@@ -3,9 +3,9 @@ import data from '../data/contact.json'
 
 export default function Contact() {
   return (
-    <main id="contacto" className="ml-54 min-h-screen flex items-center justify-center px-6 md:px-20 bg-primary-fondo dark:bg-gray-900">
+    <main id="contacto" className="ml-54 min-h-screen flex items-center justify-center px-6 md:px-20 bg-secondary-fondo dark:bg-primary-fondo">
       <div className="max-w-5xl w-full flex flex-col gap-12">
-        <h2 className="text-5xl font-bold text-center text-primary-light font-orbitron dark:text-white">Contacto</h2>
+        <h2 className="mb-4 text-5xl font-bold text-center text-primary-light font-orbitron dark:text-white">Contacto</h2>
         
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
           {/* Columna izquierda */}
@@ -40,34 +40,49 @@ export default function Contact() {
           </div>
 
           {/* Columna derecha - Formulario */}
-          <form className="space-y-6 bg-secondary-light p-6 rounded-lg shadow-md dark:bg-gray-800">
-            <input
-              type="text"
-              placeholder="Nombre"
-              className="w-full p-3 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-secondary-dark"
-            />
-            <input
-              type="email"
-              placeholder="Email"
-              className="w-full p-3 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-secondary-dark"
-            />
-            <input
-              type="text"
-              placeholder="Asunto"
-              className="w-full p-3 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-secondary-dark"
-            />
-            <textarea
-              placeholder="Mensaje"
-              rows="4"
-              className="w-full p-3 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-secondary-dark"
-            ></textarea>
-            <button
-              type="submit"
-              className="bg-secondary-dark text-white px-6 py-3 rounded-md hover:bg-secondary-default transition"
-            >
-              Enviar mensaje
-            </button>
-          </form>
+          <form
+  action="https://formsubmit.co/ederzoy@gmail.com"
+  method="POST"
+  className="space-y-6 bg-secondary-light p-6 rounded-lg shadow-md dark:bg-gray-800"
+>
+  <input type="hidden" name="_next" value="https://tusitio.com/gracias" />
+  <input type="hidden" name="_captcha" value="false" />
+
+  <input
+    type="text"
+    name="name"
+    placeholder="Tu Nombre"
+    required
+    className="w-full p-3 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-secondary-dark"
+  />
+  <input
+    type="email"
+    name="email"
+    placeholder="Tu Email"
+    required
+    className="w-full p-3 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-secondary-dark"
+  />
+  <input
+    type="text"
+    name="subject"
+    placeholder="Asunto"
+    className="w-full p-3 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-secondary-dark"
+  />
+  <textarea
+    name="message"
+    placeholder="Escribe tu Mensaje"
+    rows="4"
+    required
+    className="w-full p-3 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-secondary-dark"
+  ></textarea>
+  <button
+    type="submit"
+    className="bg-secondary-dark text-white px-6 py-3 rounded-md hover:bg-secondary-default transition"
+  >
+    Enviar mensaje
+  </button>
+</form>
+
         </div>
       </div>
     </main>

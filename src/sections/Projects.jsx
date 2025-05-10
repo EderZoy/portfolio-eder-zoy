@@ -16,7 +16,7 @@ export default function Projects() {
   };
 
   return (
-    <main id="proyectos" className="flex flex-col items-center bg-secondary-fondo min-h-screen">
+    <main id="proyectos" className="flex flex-col items-center bg-primary-fondo min-h-screen">
       <h2 className="text-2xl md:text-3xl font-bold mb-20 mt-6 text-secondary-dark font-orbitron text-center">
         Proyectos
       </h2>
@@ -39,7 +39,7 @@ export default function Projects() {
           {getVisibleProjects().map((proj, idx) => (
             <div
               key={proj.titulo}
-              className={`transition-all duration-500 rounded-xl shadow-lg overflow-hidden w-[340px] h-[500px] bg-white p-4 flex flex-col items-center justify-between text-center transform ${
+              className={`transition-all duration-500 rounded-xl shadow-lg overflow-hidden w-[340px] h-[550px] bg-white p-4 flex flex-col items-center justify-between text-center transform ${
                 idx === 1
                   ? "scale-100 border-4 border-primary"
                   : "scale-90 opacity-70"

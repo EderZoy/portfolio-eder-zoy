@@ -1,26 +1,26 @@
 [
     {
-      "titulo": "Sistema de Gestión Town Store",
-      "descripcion": "Plataforma completa para la gestión de inventario, ventas y clientes para comercio minorista.",
-      "tecnologias": ["React", "Node.js", "PostgreSQL", "Express", "JWT"],
+      "titulo": "Sistema de Gestión de Stock - Town Store",
+      "descripcion": "Sistema web que permite llevar el control del stock de la tienda de ropa, gestionando compras y ventas.  .",
+      "tecnologias": ["React", "Node.js", "PostgreSQL", "Express", "JWT", "Figma"],
       "imagen": "/stownck.jpg"
     },
     {
-      "titulo": "Web Informativa",
+      "titulo": "Web Informativa - Rakoon",
       "descripcion": "Sitio web informativo con diseño responsive y experiencia de usuario optimizada.",
       "tecnologias": ["HTML", "CSS", "JavaScript", "Bootstrap"],
       "imagen": "/rakoon.jpg"
     },
     {
-      "titulo": "Reportes Automatizados RojoSoft",
-      "descripcion": "Dashboards interactivos y reportes automatizados para visualización de KPIs y métricas de negocio.",
-      "tecnologias": ["Power BI", "SQL Server", "DAX", "Power Query"],
-      "imagen": "/reportes.jpg"
+      "titulo": "Proyecto Final de Grado - Rakoon",
+      "descripcion": "Aplicación Mobile para transformar el excedente de alimentos resultante de las cadenas de producción. Gestión del proyecto mediante Scrum, tomando el rol de scrum master y desarrollador frontend.",
+      "tecnologias": ["React Native", "PostgreSQL", "Figma", "Agil"],
+      "imagen": "/apprakoon.png"
     },
     {
       "titulo": "Sistema de Reservas de Espacios",
-      "descripcion": "Sistema de reservas de espacios comunes para la UNT FRVM.",
-      "tecnologias": ["React", "Node.js", "PostgreSQL", "Express", "JWT"],
+      "descripcion": "Sistema de reservas de espacios comunes para la UNT FRVM - Proyecto de desarrollo de sistema web que permite reservar espacios compartidos de la UTN FRVM.",
+      "tecnologias": ["Angular", "Java", "PostgreSQL", "Spring Boot"],
       "imagen": "/reservautn.png"
     }
   ]
