@@ -5,6 +5,7 @@ import AboutMe from './sections/AboutMe'
 import ExperienciaLaboral from './sections/Experience'
 import Education from './sections/Education'
 import Skills from './sections/Skills'
+import Projects from './sections/Projects'
 
 export default function App() {
   return (
@@ -16,6 +17,7 @@ export default function App() {
         <ExperienciaLaboral />        
         <Education /> 
         <Skills />
+        <Projects />
         <Contact />
       </div>
     </div>

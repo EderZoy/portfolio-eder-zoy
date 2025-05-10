@@ -3,7 +3,7 @@ import data from '../data/contact.json'
 
 export default function Contact() {
   return (
-    <main id="contacto" className="ml-54 min-h-screen flex items-center justify-center px-6 md:px-20 bg-secondary-fondo dark:bg-gray-900">
+    <main id="contacto" className="ml-54 min-h-screen flex items-center justify-center px-6 md:px-20 bg-primary-fondo dark:bg-gray-900">
       <div className="max-w-5xl w-full flex flex-col gap-12">
         <h2 className="text-5xl font-bold text-center text-primary-light font-orbitron dark:text-white">Contacto</h2>
         
